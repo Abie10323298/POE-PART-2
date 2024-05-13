@@ -10,16 +10,16 @@ reset the quantities, or clear the data.
 Instructions
 
 1. Clone the Repository: 
-   
-    https://github.com/Abie10323298/poepart-1
+
+   https://github.com/Abie10323298/POE-PART-2
     
 
-2. Move on to the Directory:
+3. Move on to the Directory:
     
-    click on poepart_1
+    click on poepart 2
    
 
-3. Compile the Program: 
+4. Compile the Program: 
     the program will run on either of the files listed below, so it doesn't realy matter which one you compile:
     
    Program.cs 
@@ -37,9 +37,9 @@ Instructions
 	1: Enter Recipe Details
 	2: Display Recipe
 	3: Scale Recipe
-  4: Reset Recipe
-  5: Clear Recipe
-  6: Quit
+  	4: Reset Recipe
+  	5: Clear Recipe
+  	6: Quit
 
 7. Exit the Program: 
     To exit the program, select option `6` from the menu or simply close the program window.
